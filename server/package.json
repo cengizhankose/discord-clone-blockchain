@@ -1,0 +1,7 @@
+{
+  "name": "qazi-gun-node",
+  "version": "1.0.0",
+  "main": "server.js",
+  "type": "module",
+  "license": "MIT"
+}
