@@ -1,1 +1,4 @@
 .vercel
+client/.vscode
+server/.vscode
+studio/.vscode
